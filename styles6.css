@@ -1,0 +1,15 @@
+
+
+
+.achtergrond {
+    background-color: yellowgreen;
+}
+
+
+.rijtjes {
+    display: inline;
+    background-color: rgb(24, 207, 34);
+    margin: 1%;
+    padding: 2%;
+    color: rgb(238, 27, 27)
+}
